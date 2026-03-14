@@ -1,6 +1,6 @@
-# VTV-KEY-SELLERS - Digital Asset E-commerce with AI Integration 🛒🤖
+# WEB-KEY-SELLERS - Digital Asset E-commerce with AI Integration 🛒🤖
 
-> **Đồ án Tốt nghiệp**: Xây dựng Website kinh doanh tài sản số tích hợp Hệ thống AI gợi ý sản phẩm & Chatbot tư vấn thông minh.
+Xây dựng Website kinh doanh tài sản số tích hợp Hệ thống AI gợi ý sản phẩm & Chatbot tư vấn thông minh.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Frontend](https://img.shields.io/badge/Frontend-React%20%7C%20Vite%20%7C%20Tailwind-61DAFB)
@@ -12,7 +12,7 @@
 
 ## 📖 Giới Thiệu Dự Án (Project Overview)
 
-**VTV-KEY-SELLERS** (VTVKey) không chỉ là một website bán hàng thông thường mà là giải pháp công nghệ tập trung giải quyết các vấn đề cốt lõi trong giao dịch tài sản số (Digital Assets) như: Key bản quyền, Tài khoản Premium (Netflix, Spotify, Youtube...), Phần mềm, Game.
+**WEB-KEY-SELLERS** (WEBKey) không chỉ là một website bán hàng thông thường mà là giải pháp công nghệ tập trung giải quyết các vấn đề cốt lõi trong giao dịch tài sản số (Digital Assets) như: Key bản quyền, Tài khoản Premium (Netflix, Spotify, Youtube...), Phần mềm, Game.
 
 Hệ thống tích hợp **Trợ lý ảo Fairy** sử dụng công nghệ RAG (Retrieval-Augmented Generation) giúp tư vấn chính xác theo thời gian thực và Hệ thống gợi ý sản phẩm cá nhân hóa (Recommendation System).
 
@@ -67,8 +67,8 @@ Dự án tập trung giải quyết 3 bài toán kỹ thuật cốt lõi:
 ---
 
 ## 📂 Cấu Trúc Dự Án
-```bash
-VTV-KEY-SELLERS/
+```bash 
+WEB-KEY-SELLERS/
 ├── AI_SYSTEM/          # Mã nguồn Python cho Chatbot & Recommendation
 ├── frontend/           # Mã nguồn ReactJS (Client & Admin Dashboard)
 ├── prisma/             # Schema Database & Migrations
